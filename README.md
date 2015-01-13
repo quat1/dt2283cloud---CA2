@@ -1,4 +1,7 @@
 dt2283cloud---CA2
+
+KUAT BEKTAYEV CA-2
+
 =================
 
 The USER GUIDE
